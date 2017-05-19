@@ -1853,4 +1853,5 @@ export default class JiraApi {
       pathname: `/sprint/${sprintId}/properties/${propertyKey}`,
     })));
   }
+
 }
